@@ -1,5 +1,5 @@
 import React from 'react'
-import loading from "C:/Users/User/Desktop/ReactCourse/my-news-app/src/loading.gif"
+import loading from "C:/Users/User/Desktop/ReactCourse/n-app/my-news-app/src/loading.gif"
 
 const Spinner = () => {
 
